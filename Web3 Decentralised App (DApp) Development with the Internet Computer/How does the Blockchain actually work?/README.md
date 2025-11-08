@@ -1,6 +1,6 @@
 # ⛓️ How Does the Blockchain Actually Work?
 
-**Blockchain** is a type of **digital ledger** — like a database — that stores information in a way that makes it **secure, transparent, and nearly impossible to alter**.  
+**Blockchain** is a type of **digital ledger** like a database that stores information in a way that makes it **secure, transparent, and nearly impossible to alter**.  
 It’s the technology that powers **cryptocurrencies**, **Web3**, and **smart contracts**.
 
 ---
