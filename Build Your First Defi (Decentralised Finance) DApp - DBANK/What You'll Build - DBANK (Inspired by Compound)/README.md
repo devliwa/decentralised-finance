@@ -1,7 +1,10 @@
 # 🚧 What You'll Build — DBANK (Inspired by Compound)
 
 **Project:** DBANK — a simplified, educational decentralized lending & borrowing protocol inspired by Compound.
-
+---
+## Resources
+- [Compound](https://app.compound.finance/?market=usdc-mainnet)
+---
 DBANK teaches core DeFi building blocks by guiding you to implement a minimal lending market where users can:
 - **Deposit** an ERC-20 token to earn interest.
 - **Borrow** against supplied collateral.
